@@ -1,0 +1,6 @@
+{
+  "name": "DayForge",
+  "description": "Own Your Time. Build Your Future. A personal productivity workspace combining daily planning, real-time focus tracking, side-by-side markdown notes, calendar sync, and consistency analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
